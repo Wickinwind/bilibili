@@ -1050,7 +1050,6 @@ button {
   position: relative;
 }
 
-
 /* ===============视频卡片==================== */
 .vedio_card_skeleton:nth-child(n+8) {
   grid-row: span 2;
