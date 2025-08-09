@@ -1,5 +1,6 @@
 // 这只是一个练习，练习JS原生来实现数据插入html
 // 这只是一个练习，练习JS原生来实现数据插入html
+// i got it
 // 这只是一个练习，练习JS原生来实现数据插入html
 (function () {
     let updates_vedios = {
